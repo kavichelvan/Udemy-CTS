@@ -1,0 +1,154 @@
+https://cognizant.udemy.com/learning-paths/1333328/
+
+- udemy course
+- cognizant go modern initiative
+
+ ---------------------------
+|			Week 1			|
+ ---------------------------
+ 
+Section:1
+----------
+Scrum -> framework to solve problems and deliver value
+		 -popular agile methodology
+		 -japanese origin
+		 -scope vary and negotiable
+Agile -> 
+
+Lighter: Scrum, Kanban, lean, Exterme progress(XP)
+More intensive: DSD<, SAFe
+
+Section:2
+----------
+Scrum pillars:  1. Transparency
+				2. Inspection
+				3. Adaptation
+Scrum principles:
+				1. Empirical process control
+				2. self organisation
+				3. collaboration
+				4. value based prioritization
+				5. time management
+				6. iterative development
+				
+				no documentation
+Scrum values:
+				1. commitment
+				2. courage
+				3. focus
+				4.openess
+				5.respect
+Scrum aspects:
+				1. org.
+				2/.business justification
+				3. quality
+				4. change
+				5. risk
+Scrum strengths:
+				1. CICD
+				2. empowerment
+				3. cross-functinoal teams
+				4. self organisation
+				5. focus on short objectives, iterative approach
+
+Section:3
+----------
+Quality in scrum:
+				1. testing in scrum
+				2. not 1 responsible
+				3. meets standards not perfection
+				4. CI
+Risk:
+				1. Identify,assess,respond
+				2. 2 factors -> prob. of occurentce, possible impact
+				
+		MVP - Minimum Vialbe product
+		
+Section: 4
+-----------
+Scrum retrospection -> V.important
+
+Scrum rituals -> 1. SM
+					- factilate scrum eventrs
+					- practice agile
+				 2. PO 
+					- owns backlog
+					- represents customeres and stakeholders
+				 3. Delivery teams
+					- Analysis, design, dev,testing
+
+Section 5:
+-----------
+Improvement -> via retrospective
+			   leverage scrum tools -> kanban,scrum charts
+			   
+Section: 6
+----------
+1. user stories
+2. kanban board - todo, doing/in progress, qa,done,ideas
+tool: trello.com
+3. Velocity: - teams' speed of execution
+			 - story points develivberd/sprint
+			 - avg story points 
+			 - metric for performance and effectivemens
+4. Burndown chart":
+			 - total amount of work
+			 - remaining/deliverd
+5. Product backlog - owned by PO
+					- for 1 sprint
+6. Sprint backlog:
+			 - owned by team
+			 - set of product backlog
+
+ ---------------------------
+|			Week 2			|
+ ---------------------------
+ Section: 7
+ -----------
+increment - a deliverable,
+		   -  work done during sprint
+done - met acceptence creteria?
+FAQs - Scrum - agile methodology
+			 - lean methodology
+			
+Section: 9
+-----------
+Daily scrum: daily standup
+			- short daily meeting
+			- no stakeholders' involved
+	3Qs: 1. what you did yesterday
+		 2. what you did today
+		 3/ any issues or impediments
+Sprint review meeting:
+			- informal meetingupto 4hrs/month
+			-  review key sprint metrics such as velocity, burndown chart, others
+			- update product backlog
+			- review timelines, budgets
+Retrospectives:
+			- leasons learned session
+			- agile ritual that allowes CI
+			- 3Qs: 1. what wsent well
+				   2. what didnt
+				   3. what to do next time
+			- 3 hour/month
+			- after sprint review and prior to next sprint planning
+			
+Section:10
+----------
+JIRA: - MOSCOW - Musts
+			   - Shoulds
+			   - Coulds
+			   - won't haves
+
+ ---------------------------
+|			Week 3			|
+ ---------------------------
+Section:12
+----------
+Microsoft TEAMS: 
+	chat - 1 0n 1
+	teams - group -> channels
+
+ ---------------------------
+|			Week 4			|
+ ---------------------------
